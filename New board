@@ -31,9 +31,9 @@ void turnRight(){
 void turnLeft(){ // completely turns the robot left  
  motor(l_motor,-speed);
  motor(r_motor,speed);
- msleep(500);
+ msleep(600);
  forwards();
- msleep(800);
+ msleep(1500);
  ao();   
 }
 
