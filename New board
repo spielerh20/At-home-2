@@ -8,7 +8,7 @@ int pause_2 = 100;
 int right_range = 2;
 int left_range = 0;
 int middle_range = 1;
-int left_bump = 8
+int left_bump = 8;
 
 int main(){
 wallrun();
